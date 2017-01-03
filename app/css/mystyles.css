@@ -1,0 +1,25 @@
+body {
+	background:#fff;
+	font-family: Verdana;
+	font-size: 14px;
+}
+li{
+	cursor: pointer;
+}
+li:hover{
+	color: #228B22;
+}
+img{
+	width: 120px;
+	height: 140px;
+	float: left;
+}
+textarea{
+	width: 650px;
+}
+.go{
+	margin-left: 10px;
+}
+.comments{
+	margin-top: 15px;
+}
